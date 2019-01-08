@@ -21,7 +21,7 @@ Add JavaScript inline (using <script> tags) that does the following:
 <script>
     var name="I'Tayanna"
     var age=21
-    console.log("My name is "+name+" "+"I am "+age)
+    console.log("My name is "+name+" "+"and I am "+age)
 </script>
 </body>
 </html>
